@@ -19,7 +19,7 @@
         </tbody>
         <tfoot>
           <tr>
-            <th colspan="3"># of students = {{ students.length }}</th>
+            <th colspan="3">No. of students = {{ students.length }}</th>
           </tr>
         </tfoot>
         
